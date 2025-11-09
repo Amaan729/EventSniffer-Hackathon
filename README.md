@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 The Demo
-**[➡️ Watch the 2-Minute Demo Video Here]([https://youtu.be/U0LHpKopZn4])**
+**[➡️ Watch the 2-Minute Demo Video Here](https://youtu.be/U0LHpKopZn4)**
 
 *Because this project involves complex local permissions (Accessibility, Calendar) and a local AI model, a live install is impractical for judging. This video shows the complete, end-to-end functionality.*
 

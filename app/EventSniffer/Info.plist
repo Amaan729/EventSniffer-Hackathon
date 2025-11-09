@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Event Sniffer needs to add the events it finds to your calendar.</string>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>Event Sniffer needs to read the text of your active window to find potential calendar events.</string>
+</dict>
+</plist>

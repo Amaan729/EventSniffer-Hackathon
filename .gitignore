@@ -1,0 +1,6 @@
+.DS_Store
+app/DerivedData/
+__pycache__/
+venv/
+ml/venv/
+ml/model_output/
